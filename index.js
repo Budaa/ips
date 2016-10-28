@@ -105,7 +105,7 @@ test(6, '112451');
 // (xyz.00z.0yz.x should be printed as xyz.z.yz.x).
 //
 // If there are no valid IPs that can be formed from the string of numbers, an empty string should be returned instead.
-//
+//s
 // INPUT
 // int str_numbers_len, string str_numbers
 //
